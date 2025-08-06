@@ -1,0 +1,39 @@
+Algoritmo "teste_saida"
+
+Var
+
+   a: inteiro
+   b: real
+   c: caractere
+   d: logico
+   idade: inteiro
+   salario: real
+   nome: caractere
+   
+Inicio
+
+   a <- 32
+   b <- 2.34567
+   c <- "Bom dia!"
+   d <- VERDADEIRO
+   idade <- 32
+   salario <- 4560.9
+   nome <- "Maria Silva"
+
+   escreval("Bom dia!")
+   escreval("Boa noite!")
+   escreval
+   escreval (a)
+   escreval (b)
+   escreval (b:10)
+   escreval (b:10:2)
+   escreval (c)
+   escreval (d)
+   escreval
+   escreval ("A funcionaria ", nome, " Ganha", salario:8:2, " e tem", idade, " anos.")
+   escreval
+   escreval ("Bom dia!")
+   escreval
+   escreval ("Boa noite!")
+   
+Fimalgoritmo
