@@ -18,4 +18,5 @@ Inicio
    
    escreval("SOMA = ", soma)
 
+
 Fimalgoritmo
